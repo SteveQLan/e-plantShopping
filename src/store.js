@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit';
-import cartReducer from './CartSlice.jsx';
+import cartReducer from './CreateSlice.jsx';
 
  c    // Create a Redux store using configureStore from Redux Toolkit
     const store = configureStore({
